@@ -1,0 +1,1 @@
+change the admin email in Controllers -> Users -> help-desk function.

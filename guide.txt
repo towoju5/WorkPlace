@@ -1,0 +1,23 @@
+######  ##    ##    ########    ########    ########
+##      ##    ##       ##       ##      ##  ##
+## ###  ##    ##       ##       ##      ##  #######
+##  ##  ##    ##       ##       ##      ##  ##
+######  ########    #########   ########    ########
+
+
+This is a simple guide that explain the installation procedure for the script.
+
+Extract the Zip file in your server root.
+
+Create a Database and addup the Database user enabling all priviledges
+
+open the .env file and set up the database(Main Database Configuration) with your new information.
+
+change the app.baseURL to your domain URL.
+    app.baseURL = 'https://example.com/'
+
+save and check your browser.
+
+Am available via WhatsApp : +2347088306606, +2349039395114, Email: hi@towoju.com, website: https://towoju.com 
+
+You can reach me if you need further help or assistance with the installation.
