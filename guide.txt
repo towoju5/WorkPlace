@@ -17,7 +17,4 @@ change the app.baseURL to your domain URL.
     app.baseURL = 'https://example.com/'
 
 save and check your browser.
-
-Am available via WhatsApp : +2347088306606, +2349039395114, Email: hi@towoju.com, website: https://towoju.com 
-
 You can reach me if you need further help or assistance with the installation.
